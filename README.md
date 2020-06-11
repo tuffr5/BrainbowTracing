@@ -11,7 +11,7 @@ Run BM4D to denoise the image, code can be downloaded from [here](http://www.cs.
 #### Step 1
 Run mainScript.m in brainbowSegmentation folder to get the segmentation results. You can either use kernel k-means or GMM. Both the skeleton and segmentation will be saved in the directory specified.
 #### Step 2
-Run testMain.m in linkagebriding folder to precede the skeletons mat files and then generate the SWC files.
+Run testMain.m in linkagebriding folder to process the skeletons towards compact tracings and then generate the SWC files.
 
 
 ### Acknowledgements
